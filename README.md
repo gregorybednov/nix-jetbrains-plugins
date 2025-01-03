@@ -1,7 +1,7 @@
 Nix Jetbrains Plugins
 =====================
 
-This repository contains derivations for ALL plugins from the Jetbrains Marketplace.
+This FORK of original repository contains derivations for ALL plugins from the Jetbrains Marketplace and it REQUIRES a local clone of jetbrains marketplace on address ```kafpi.local```. (use can make a fork and use any other address or do it better than me)
 
 It is regularly updated to include all current plugins in their latest compatible version.
 
