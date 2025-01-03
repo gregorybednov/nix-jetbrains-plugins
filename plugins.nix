@@ -72,7 +72,7 @@ let
     in
     {
       inherit name version;
-      url = "https://downloads.marketplace.jetbrains.com/${match.p}";
+      url = "http://kafpi.local/${match.p}";
       hash = "sha256-${match.h}";
     };
 
